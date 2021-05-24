@@ -4,4 +4,4 @@ I made this calculator as a fun project to play around with HTML, CSS, and Javas
 
 # Screen Shot
 
-![Image of Class Diagram](/screenshots/ClassDiagram.PNG)
+![Image of Class Diagram](./screenshots/JSCalcSS1.PNG)
